@@ -11,6 +11,8 @@ A: git add
 3. What command do you use to ask git to move your file from the staging area to the repository?
 A: git push
 
+
+
 1. What command do you use to pull any changes from the master repository into your local repository?
 A: git pull
 
@@ -25,3 +27,14 @@ A: It seperates sub-command arguments from file names.
 
 5. Why might you want to reset your files back to a previous commit?
 A: You made a mistake, there are bugs, code doesn't run properly, etc.
+
+
+
+1. What command do you use to create a branch?
+A: git branch [branch-name]
+
+2. What command do you use to use a different branch?
+A: git checkout [branch-name]
+
+3. Why would you want to use a branch other than the default master?
+A: Working on a different feature and want to keep it seperate; working in groups and splitting the work
